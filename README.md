@@ -1,5 +1,5 @@
-# quiz
-quiz game in consol 
+# quiz game
+
 
 There are two version of this game: 
 1) is a consol game where user is answering questions in console/terminal and data for this questions are from static dictionary from file data
